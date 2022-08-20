@@ -159,7 +159,7 @@ img {
 }
 
 .contact-link:hover .contact-icon,
-.contact-link:focus .contacts-icon{
+.contact-link:focus .contact-icon{
     fill: var(--accent-color);
 }
 
@@ -366,7 +366,7 @@ img {
 }
 
 .social-icon{
-    fill: var(--secondary-text-color);
+    fill: #AFB1B8;
 }
 .social-link:hover .social-icon,
 .social-link:focus .social-icon{
