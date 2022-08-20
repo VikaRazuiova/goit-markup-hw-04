@@ -491,7 +491,7 @@ img {
     flex-wrap: wrap;
     align-self:baseline;
     margin-left: 70px;
-    margin-top: 12px;
+    padding-top: 12px;
 }
 
 .social-contact-link{
